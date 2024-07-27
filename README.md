@@ -12,6 +12,7 @@
     "moduleResolution": "node"
   }
 }
+```
 
 > ### For Next.js
  ```
@@ -28,6 +29,4 @@
     "moduleResolution": "node"
   }
 }
-```
-
 ```
